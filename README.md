@@ -14,6 +14,7 @@ BTW here is "hello world" in brainfuck:
 # Requirements
 - nasm
 - any C++ compiler
+- cmake
 
 # Tests
 | OS | Result |
