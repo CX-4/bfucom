@@ -10,6 +10,7 @@ compile_commands.json
 CTestTestfile.cmake
 _deps
 hello*
+!hello.bf
 tmp*
 .vs
 out
